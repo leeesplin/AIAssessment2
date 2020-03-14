@@ -1,0 +1,8 @@
+D:\Documents\AIAssessment2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.deps.json
+D:\Documents\AIAssessment2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.runtimeconfig.json
+D:\Documents\AIAssessment2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.runtimeconfig.dev.json
+D:\Documents\AIAssessment2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.dll
+D:\Documents\AIAssessment2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.csprojAssemblyReference.cache
+D:\Documents\AIAssessment2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.csproj.CoreCompileInputs.cache
+D:\Documents\AIAssessment2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.AssemblyInfoInputs.cache
+D:\Documents\AIAssessment2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.AssemblyInfo.cs
